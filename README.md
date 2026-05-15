@@ -19,8 +19,6 @@ I build:
 - Backend APIs using FastAPI & Flask
 - Frontend apps using React
 
-🔥 I believe:
-> "Real coding is not syntax, it's building systems."
 
 ---
 
