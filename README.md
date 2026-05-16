@@ -86,6 +86,10 @@ I build:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas5080&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas5080&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🐍 Contribution Graph
@@ -109,6 +113,6 @@ I build:
 ## 📫 Contact
 
 - GitHub: https://github.com/shreyas5080
-- Email: shreyaspojari5080@gmail.com
+- Email: shreyaspojari567@gmail.com
 
 ---
