@@ -1,118 +1,110 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Shreyas%20%7C%20Full%20Stack%20%2B%20AI%20Developer&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=180&section=header&text=Shreyas%20|%20Full%20Stack%20+%20AI%20Developer&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Voice+Assistant+Builder;React+%2B+FastAPI+Developer;BCA+Student;LeetCode+100%2B+Solved" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Voice+Assistant+Builder;FastAPI+%2B+React+Developer;BCA+Student;100%2B+LeetCode+Problems+Solved" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a **Full Stack Developer + AI Builder** from India 🇮🇳  
-Currently pursuing **BCA (2nd Year)**.
-
+I am a **Full Stack Developer + AI Builder** from 🇮🇳 India.  
 I build:
-- Scalable full-stack web applications
-- AI systems (local voice assistant using Llama)
-- Backend APIs using FastAPI & Flask
-- Frontend apps using React
 
+- Scalable web applications (React + FastAPI)
+- Lightweight AI systems (Local Llama models)
+- Backend APIs (FastAPI, Flask)
+- Automation + DevTools
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-
-### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge)
+Focused on **AI, System Design & Full Stack Engineering**.
 
 ---
 
-## 🤖 AI Projects
+# 🛠️ Tech Arsenal
 
-### 🧠 Local AI Voice Assistant
-- Built using **Llama model**
-- Works offline (local AI system)
-- Voice-based interaction
-- Custom command execution system
-- Personal automation assistant
+## 🧩 Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
----
+## 🔥 Backend  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## 📌 Projects
+## 🎨 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📚 Backlog Clear App (Main Project)
-- Full-stack study planner SaaS-style app
-- React frontend + FastAPI backend
-- SQLAlchemy ORM + MySQL
-- Authentication system (in progress)
-- Progress tracking system
+## 🗄️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-### 🧠 Flask Full Stack App
-- Flask + Raw SQL backend
-- HTML/CSS frontend
-- CRUD operations system
+## ⚡ Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+# 🤖 AI Projects
 
+### 🧠 Local AI Voice Assistant  
+- Built using Llama models  
+- Offline AI system  
+- Custom command execution  
+- Voice automation + TTS/STT  
+
+---
+
+# 📌 Highlight Projects
+
+### 📚 **Backlog Clear App – SaaS**
+- React + FastAPI  
+- SQLAlchemy + MySQL  
+- Authentication (JWT)  
+- User progress tracking  
+
+### 🧠 **Flask Full Stack App**
+- Flask + Raw SQL  
+- HTML/CSS UI  
+- CRUD operations  
+
+---
+
+# 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas5080&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas5080&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas5080&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shreyas5080&theme=tokyonight&cache=0.001" />
 </p>
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🧠 Coding Journey
+# 🧠 My Coding Journey
 
-- Learned Python → C++ → JavaScript
-- Built Flask + SQL full-stack app
-- Solved 100+ LeetCode problems
-- Built AI Voice Assistant using Llama
-- Now building FastAPI + React SaaS apps
+- Learned Python → C++ → JavaScript  
+- Built Flask + SQL full stack apps  
+- Solved **100+** LeetCode questions  
+- Built an offline AI Voice Assistant  
+- Currently developing SaaS apps in FastAPI + React  
+
+---
+
+# 📫 Contact  
+**GitHub:** https://github.com/shreyas5080  
+**Email:** shreyaspojari567@gmail.com  
 
 ---
 
-## 📫 Contact
-
-- GitHub: https://github.com/shreyas5080
-- Email: shreyaspojari567@gmail.com
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
