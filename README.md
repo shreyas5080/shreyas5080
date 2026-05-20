@@ -15,7 +15,7 @@
 I am a **Full Stack Developer + AI Builder** from 🇮🇳 India.  
 I build:
 
-- Scalable web applications (React + FastAPI)
+- Web applications (React + FastAPI)
 - Lightweight AI systems (Local Llama models)
 - Backend APIs (FastAPI, Flask)
 - Automation + DevTools
