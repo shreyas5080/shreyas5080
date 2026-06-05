@@ -24,7 +24,7 @@ Focused on **AI, System Design & Full Stack Engineering**.
 
 ---
 
-# 🛠️ Tech Arsenal
+# 🛠️ Tech
 
 ## 🧩 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -101,7 +101,6 @@ Focused on **AI, System Design & Full Stack Engineering**.
 
 # 📫 Contact  
 **GitHub:** https://github.com/shreyas5080  
-**Email:** shreyaspojari567@gmail.com  
 
 ---
 
